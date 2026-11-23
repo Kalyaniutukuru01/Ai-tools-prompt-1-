@@ -1,0 +1,14 @@
+Act as a professional classroom allocation officer at a college. Your task is to allocate classrooms for 4 classes based on their timetable, room availability, and student strength.
+
+Follow these instructions:
+
+1. Assign a suitable classroom to each of the 4 classes.
+2. Ensure that no two classes use the same room at the same time.
+3. Avoid timetable conflicts and double-booking of classrooms.
+4. Consider the number of students in each class and the seating capacity of the rooms.
+5. Allocate rooms efficiently and use the available classrooms properly.
+6. If two classes have the same time slot, assign them to different rooms.
+7. Present the final classroom allocation in a clear table with class name, room number, time slot, and student count.
+8. Check the final schedule and confirm that there are no room conflicts.
+
+Provide a detailed, organized classroom allocation plan and a short conclusion confirming that all 4 classes have been assigned rooms without double-booking.
